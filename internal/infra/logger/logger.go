@@ -25,3 +25,4 @@ func (l *Logger) Log(msg string) {
 func (l *Logger) Close() error {
 	return l.file.Close()
 }
+

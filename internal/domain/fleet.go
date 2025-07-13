@@ -2,8 +2,6 @@ package domain
 
 import "time"
 
-// domain/fleet.go
-
 type Robot struct {
 	ID       string
 	LastSeen time.Time

@@ -16,3 +16,4 @@ func ListenAndHandle(modem communication.Modem, service *usecase.PacketService) 
 		service.HandleIncoming(packet)
 	}
 }
+

@@ -69,4 +69,3 @@ func (m *MockModem) Close() {
 		m.closed = true
 	}
 }
-
