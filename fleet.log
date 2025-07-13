@@ -1,0 +1,40 @@
+2025/07/13 21:26:18 Sending packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=14, CRC=524619561]
+2025/07/13 21:26:18 Received valid packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=14, CRC=524619561]
+2025/07/13 21:26:19 Sending packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=14, CRC=2253151891]
+2025/07/13 21:26:19 Received valid packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=14, CRC=2253151891]
+2025/07/13 21:26:20 Sending packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=14, CRC=4048252421]
+2025/07/13 21:26:20 Received valid packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=14, CRC=4048252421]
+2025/07/13 21:26:21 Sending packet: Packet[ID=pkt4, From=server, To=robot1, PayloadLen=14, CRC=1865415590]
+2025/07/13 21:26:21 Received valid packet: Packet[ID=pkt4, From=server, To=robot1, PayloadLen=14, CRC=1865415590]
+2025/07/13 21:26:22 Sending packet: Packet[ID=pkt5, From=server, To=robot1, PayloadLen=14, CRC=405326640]
+2025/07/13 21:26:22 Received valid packet: Packet[ID=pkt5, From=server, To=robot1, PayloadLen=14, CRC=405326640]
+2025/07/13 21:26:25 Error receiving packet: timeout waiting for packet
+2025/07/13 21:26:31 Sending packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=14, CRC=524619561]
+2025/07/13 21:26:32 Received valid packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=14, CRC=524619561]
+2025/07/13 21:26:32 Sending packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=14, CRC=2253151891]
+2025/07/13 21:26:33 Received valid packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=14, CRC=2253151891]
+2025/07/13 21:26:33 Sending packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=14, CRC=4048252421]
+2025/07/13 21:26:34 Received valid packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=14, CRC=4048252421]
+2025/07/13 21:26:34 Sending packet: Packet[ID=pkt4, From=server, To=robot1, PayloadLen=14, CRC=1865415590]
+2025/07/13 21:26:35 Received valid packet: Packet[ID=pkt4, From=server, To=robot1, PayloadLen=14, CRC=1865415590]
+2025/07/13 21:26:35 Sending packet: Packet[ID=pkt5, From=server, To=robot1, PayloadLen=14, CRC=405326640]
+2025/07/13 21:26:36 Received valid packet: Packet[ID=pkt5, From=server, To=robot1, PayloadLen=14, CRC=405326640]
+2025/07/13 21:26:39 Error receiving packet: timeout waiting for packet
+2025/07/13 21:26:42 Error receiving packet: timeout waiting for packet
+2025/07/13 21:26:45 Error receiving packet: timeout waiting for packet
+2025/07/13 21:27:40 Sending packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=6, CRC=2069218661]
+2025/07/13 21:27:41 Received valid packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=6, CRC=2069218661]
+2025/07/13 21:27:41 Sending packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=6, CRC=3797718239]
+2025/07/13 21:27:42 Received valid packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=6, CRC=3797718239]
+2025/07/13 21:27:42 Sending packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=6, CRC=2505811017]
+2025/07/13 21:27:43 Received valid packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=6, CRC=2505811017]
+2025/07/13 21:27:46 Error receiving packet: timeout waiting for packet
+2025/07/13 21:27:48 Done.
+2025/07/13 21:28:31 Sending packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=6, CRC=2069218661]
+2025/07/13 21:28:32 Received valid packet: Packet[ID=pkt1, From=server, To=robot1, PayloadLen=6, CRC=2069218661]
+2025/07/13 21:28:32 Sending packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=6, CRC=3797718239]
+2025/07/13 21:28:33 Received valid packet: Packet[ID=pkt2, From=server, To=robot1, PayloadLen=6, CRC=3797718239]
+2025/07/13 21:28:33 Sending packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=6, CRC=2505811017]
+2025/07/13 21:28:34 Received valid packet: Packet[ID=pkt3, From=server, To=robot1, PayloadLen=6, CRC=2505811017]
+2025/07/13 21:28:37 Error receiving packet: timeout waiting for packet
+2025/07/13 21:28:39 Done.
